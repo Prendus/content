@@ -18,6 +18,17 @@ The following potentially personally identifiable information may be available t
 * Your interactions with the services, such as which URLs you visit, which quizzes, questions, and other content that you use, and all click-level interactions with the services
 * Any personally identifiable information contained in content that you upload
 
+### Cookies
+
+We use cookies in some of the following ways:
+
+* To collect data for use with Google Analytics
+* To store certain LTI credentials
+
+### Google Analytics
+
+We use Google Analytics. You can see how Google Analytics collects and processes data here: ["How Google uses data when you use our partners' sites or apps"](https://www.google.com/policies/privacy/partners/).
+
 ## How we use the information
 
 We may access and use information collected to do any of the following:

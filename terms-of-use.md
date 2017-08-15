@@ -7,6 +7,7 @@ By using any Prendus services, you agree to the following terms and the [Privacy
 * You must be 13 years or older to use the services
 * You must not violate [this acceptable use policy](https://github.com/graphcool/content/blob/master/static/legal/terms.md#acceptable-use-policy)
 * We may suspend or terminate your account for any reason
+* We may take down content you post for any reason
 * You may delete your account and cancel your acceptance of this agreement by sending an email to `jordan.michael.last@gmail.com`
 * Changes to these terms and the [Privacy Policy](https://github.com/Prendus/content/blob/master/privacy-policy.md) take effect immediately. A 14 day notice will be displayed on the website before the new terms and [Privacy Policy](https://github.com/Prendus/content/blob/master/privacy-policy.md) are changed
 * You may send DMCA notices to `jordan.michael.last@gmail.com`. If we receive a valid DMCA notice, we will respond promptly by contacting the infringer and removing the infringing content

@@ -15,7 +15,7 @@ By using any Prendus services, you agree to the following terms and the [Privacy
 
 ## Payment Terms
 
-We charge for the use of some courses. The payment we receive from you for a course allows you to use the course as a student for the lifetime of the course. Student use of the course includes access to your own questions, quizzes, and content and the shared questions, quizzes, and content of other course members, as well as sending back grades to your learning management system.
+We charge for the use of some courses. You agree to allow Prendus to submit charges through Stripe on your behalf. The payment we receive from you for a course allows you to use the course as a student for the lifetime of the course. Student use of the course includes access to your own questions, quizzes, and content and the shared questions, quizzes, and content of other course members, as well as sending back grades to your learning management system. Contact jordanprendus@gmail.com or benprendus@gmail.com if you have any concerns about your payment or the course that you've paid for.
 
 ### Refunds
 

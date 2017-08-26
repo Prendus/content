@@ -13,9 +13,14 @@ By using any Prendus services, you agree to the following terms and the [Privacy
 * You may send DMCA notices to `jordanprendus@gmail.com`. If we receive a valid DMCA notice, we will respond promptly by contacting the infringer and removing the infringing content
 * THE SERVICES ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL PRENDUS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SERVICES OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. (This clause is similar to the warranty clause found in [The MIT License](https://opensource.org/licenses/MIT))
 
+## Payment Terms
+
+
+
+The Stripe name and logos are trademarks or service marks of Stripe, Inc. or its affiliates in the U.S. and other countries.
+
 ## TODO
 
-- [ ] Explain payment terms
 - [ ] Make better email addresses
 - [ ] DMCA safe harbor compliance
 - [ ] Jurisdiction (what laws do we agree to be governed by)

@@ -58,3 +58,5 @@ We strive to store and transmit all personally identifiable information securely
 ## How can you control your data
 
 If you have any concerns about the privacy of your data, or if you would like any of your data to be removed from the services, email `jordanprendus@gmail.com`. Please note that there is certain information that we need from you to ensure that the services work, and if it is removed the services may be rendered useless to you.
+
+The Stripe name and logos are trademarks or service marks of Stripe, Inc. or its affiliates in the U.S. and other countries.

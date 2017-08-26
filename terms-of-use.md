@@ -19,7 +19,7 @@ We charge for the use of some courses. The payment we receive from you for a cou
 
 ### Refunds
 
-You may request a full refund for a course anytime within the first 15 days after joining that course. If you receive a refund, you will be removed from the course. Contact jordanprendus@gmail.com or benprendus@gmail.com to request a refund.
+You may request a full refund for a course anytime within the first 14 days after joining that course. If you receive a refund, you will be removed from the course. Contact jordanprendus@gmail.com or benprendus@gmail.com to request a refund.
 
 The Stripe name and logos are trademarks or service marks of Stripe, Inc. or its affiliates in the U.S. and other countries.
 

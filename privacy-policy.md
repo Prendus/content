@@ -32,7 +32,7 @@ We use Google Analytics. You can see how Google Analytics collects and processes
 
 ### Stripe
 
-We use Stripe to process payment transactions on our behalf. You may be required to provide personally identifiable data to Stripe through the Prendus services, including but not limited to credit card information. You can review [Stripe's Privacy Policy](https://stripe.com/us/privacy/) for more information.
+We use Stripe to process payment transactions on our behalf. You may be required to provide personally identifiable data to Stripe through the Prendus services, including but not limited to credit card information. You can review [Stripe's Privacy Policy](https://stripe.com/us/privacy/) for more information. We may also share some information with Stripe, such as your email address, to facilitate payments (receipts and such).
 
 ## How we use the information
 

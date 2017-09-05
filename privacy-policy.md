@@ -43,6 +43,7 @@ We may access and use information collected to do any of the following:
 * Ensure the Prendus services function correctly
 * Develop and improve the Prendus services
 * Provide you with analytics based on your interactions with the services
+* Provide your course instructor with information concerning you and connected with your activity in the course
 
 Note that any personally identifiable information contained in content (e.g. questions) that you create is governed by [The Prendus License](https://github.com/Prendus/content/blob/master/the-prendus-license.md), and will not have the same protections as other personally identifiable information. For this reason you should consider avoiding inserting any personally identifiable information in content that you create on the Prendus services.
 

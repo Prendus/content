@@ -6,7 +6,7 @@ The following potentially personally identifiable information may be available t
 
 * Email address
 * Password
-* [LTI credentials](https://www.imsglobal.org/specs/ltiv1p1p1/implementation-guide#toc-3)
+* [LTI credentials](https://www.imsglobal.org/specs/ltiv1p1p1/implementation-guide#toc-3), including but not limited to:
   * user_id
   * user_image
   * lis_person_name_given
